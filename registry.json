@@ -1,0 +1,14 @@
+{
+  "format": 2,
+  "generatedAt": 1783777577752,
+  "issuerKeyId": "ed25519-main-2026",
+  "signatureAlgorithm": "Ed25519",
+  "licenses": [
+    {
+      "licenseId": "ai-device-001",
+      "licenseSha256": "15291e923025798ad7ad676813ff0226c6bc619e4228322e47e756916b6005a1",
+      "revoked": false
+    }
+  ],
+  "signature": "-6wJDIVRbR8puqy1yf9bqSvV4szY-SS6H52dMXWn1_b4YTCPPyopLtUut1uHNAArDHAiSpMZIEGyVOpifAKHDA"
+}
