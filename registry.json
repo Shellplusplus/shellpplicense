@@ -1,14 +1,14 @@
 {
   "format": 2,
-  "generatedAt": 1783777577752,
+  "generatedAt": 1784725682113,
   "issuerKeyId": "ed25519-main-2026",
   "signatureAlgorithm": "Ed25519",
   "licenses": [
     {
       "licenseId": "ai-device-001",
-      "licenseSha256": "15291e923025798ad7ad676813ff0226c6bc619e4228322e47e756916b6005a1",
+      "licenseSha256": "dcc9c80311c19bc004b9021ab33f9cd86401720f3e96613892ef8a7cbc68e265",
       "revoked": false
     }
   ],
-  "signature": "-6wJDIVRbR8puqy1yf9bqSvV4szY-SS6H52dMXWn1_b4YTCPPyopLtUut1uHNAArDHAiSpMZIEGyVOpifAKHDA"
+  "signature": "fdIOtrTppHKNK51nYL_bHlpr-Kcy9irlYTkOQPhQc1aOosPSh8FBPfJOvjw7XjaOrhfzHYH5jqNAi03ZECkaCg"
 }
